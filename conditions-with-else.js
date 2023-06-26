@@ -54,11 +54,11 @@ const email = "admin@intocode.ru";
   в значении переменной email нет символа "@", иначе выведи "ты зареган"
   Тебе понадобится метод indexOf: https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf
 */
-if(email.indexOf("@")){
-    console.log("неверный эмайл")
+if(email.indexOf("@")=== 5){
+    console.log("ты зареган")
 }
 else{
-    console.log("ты зареган")
+    console.log("неверный эмайл")
 }
 
 // задание 5
