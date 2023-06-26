@@ -1,0 +1,5 @@
+let 1gameName = "Название игры"
+let 1gameDescription = "Описание игры"
+let 1gameVersion = "Версия игры"
+let 1namePlayer = "Имя персонажа"
+let 1nameDeveloper = "Имя разработчика игры"
